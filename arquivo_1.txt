@@ -1,1 +1,3 @@
 este é meu texto novo.
+
+Está é uma linha nova de texto adicionada.
